@@ -1,3 +1,5 @@
+"""python script to plot a voltage signal"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 
